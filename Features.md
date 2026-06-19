@@ -4,24 +4,51 @@
 
 - One-to-one messaging
 - Group chats
-- Project chats
+- Project workspaces
 - Voice calls
 - Video meetings
 - Message reactions
-- Replies
-- Forwarding
-- File sharing
+- Replies and threading
+- File and document sharing
+- Built-in PDF viewer
+- Screen sharing (future)
 
 ---
 
 ## Collaboration
 
-- Project workspaces
-- Shared documents
-- Drawing sharing
+- Project management workspaces
+- Shared project folders
 - BOQ collaboration
+- Drawing and blueprint sharing
 - Progress tracking
 - Team announcements
+- Task assignments
+- Project approvals
+- Inspection requests
+
+---
+
+## AI Features
+
+### SurvLingo
+
+SurvLingo is SurvMessenger's intelligent AI assistant, designed specifically for construction professionals.
+
+It assists users by:
+
+- Answering construction-related questions
+- Explaining engineering and quantity surveying concepts
+- Summarizing project discussions
+- Translating technical documents into simpler language
+- Drafting professional messages and reports
+- Assisting with BOQs and cost estimation
+- Recommending construction best practices
+- Searching project documents intelligently
+- Providing procurement recommendations
+- Supporting multilingual communication for international teams
+
+SurvLingo is designed to become the intelligent knowledge layer across the entire Survonomics ecosystem.
 
 ---
 
@@ -32,16 +59,8 @@
 - Device management
 - Session management
 - Secure backups
-
----
-
-## AI
-
-- Construction Assistant
-- Smart search
-- Cost recommendations
-- Meeting summaries
-- Workflow suggestions
+- Audit logs
+- Professional verification
 
 ---
 
@@ -49,9 +68,21 @@
 
 - Verified professionals
 - Company profiles
-- Project teams
 - Student accounts
 - Organization management
+- Project teams
+- Professional badges
+
+---
+
+## Ecosystem Integration
+
+SurvMessenger connects seamlessly with:
+
+- **SurvPay** — Secure payments and project escrow
+- **SurvPrice** — Live construction material prices
+- **SurvMarket** — Procurement and supplier marketplace
+- **SurvLingo** — AI-powered assistant available throughout the platform
 
 ---
 
@@ -59,6 +90,7 @@
 
 - Offline mode
 - Calendar integration
-- Inspection requests
-- Digital approvals
 - Workflow automation
+- Digital signatures
+- Enterprise dashboards
+- API integrations
