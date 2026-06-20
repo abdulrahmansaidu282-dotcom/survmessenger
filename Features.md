@@ -94,3 +94,83 @@ SurvMessenger connects seamlessly with:
 - Digital signatures
 - Enterprise dashboards
 - API integrations
+
+---
+
+# Multi-Project Workspace System
+
+SurvMessenger is designed as a flexible project collaboration platform that supports multiple industries and organizational structures—not limited to construction or NGOs.
+
+The system allows users to create and manage different types of projects within the same secure environment.
+
+---
+
+## Supported Project Types
+
+SurvMessenger can be configured for:
+
+- Construction Projects
+- NGO / Humanitarian Projects
+- Corporate Projects
+- Educational Projects
+- Government Projects
+- Community Development Projects
+- Research Projects
+- Internal Organizational Projects
+
+---
+
+## Core Capability
+
+Each project operates as an independent workspace with:
+
+- Dedicated chat channels
+- Role-based access control
+- File and document storage
+- Task tracking
+- Approval workflows
+- Project-specific permissions
+- Progress tracking
+- AI assistance (SurvLingo integration)
+
+---
+
+## How It Works
+
+Instead of a single chat platform, SurvMessenger becomes a **project operating system**.
+
+Each project has:
+
+- Its own structure
+- Its own team members
+- Its own rules and permissions
+- Its own documents and communication history
+
+This ensures full separation and organization across multiple active projects.
+
+---
+
+## Example Use Case
+
+A user can simultaneously manage:
+
+- A construction project for a residential building
+- An NGO project for rural water supply
+- A corporate renovation project
+- A training workshop project
+
+All within the same SurvMessenger account, without mixing data or communication.
+
+---
+
+## Why This Matters
+
+Most messaging apps are limited to informal communication.
+
+SurvMessenger is designed as a **multi-industry project execution system**, allowing organizations to scale beyond a single sector while maintaining structure, security, and clarity.
+
+---
+
+## Vision
+
+SurvMessenger becomes a universal project collaboration platform capable of supporting any structured team-based work across industries, while remaining optimized for construction as its primary focus.
